@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @purnendu-gpu
+- 👋 Hi, I’m @purnendu shukla
 - 👀 I’m interested in ... blockchain & cloud computing
 - 🌱 I’m currently learning ... Cloud computing/AWS , Google cloud
 - 💞️ I’m looking to collaborate on ... Blockchain nfts
